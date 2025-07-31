@@ -1,4 +1,4 @@
-# vulkan-zig
+# zvulkan
 
 A Vulkan binding generator for Zig.
 
